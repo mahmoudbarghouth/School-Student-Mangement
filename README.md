@@ -5,3 +5,4 @@
 o	Student class
 o	Course class
 o	School or System class
+read from file and write to file 
