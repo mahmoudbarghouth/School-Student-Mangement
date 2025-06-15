@@ -1,0 +1,5 @@
+Name,Math,Physics,English
+Ahmed,85,70,90
+Ali,45,55,60
+Heba,95,90,88
+Salma,40,30,70
